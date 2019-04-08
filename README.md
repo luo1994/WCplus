@@ -28,4 +28,8 @@ WCplus 依赖 Python3 运行，请先安装 Python ，最好是 python 3.6 。
 以上就是运行 WCplus 所需的所有步骤
 
 ## 生成证书
-// TODO:
+如果你想要使用原版exe程序（[下载](https://github.com/fuckwonderfulsuccess/WCplus/releases)），可以并使用license generator生成一个license.ca授权文件，按照使用说明配置即可。license generator使用方式为：
+```
+python3 license_generator.py 标识码
+```
+
