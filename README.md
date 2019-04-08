@@ -1,7 +1,7 @@
 # WCplus
 
 ## 介绍
-本项目旨在逆向WCplus源码，并提供相关license生成算法，相关讨论见 https://www.v2ex.com/t/551219#reply82 原项目介绍如下：
+本项目旨在逆向WCplus源码，并提供相关license生成算法，相关讨论见 https://www.v2ex.com/t/551219 原项目介绍如下：
 
 > 在超过两千万的公众号中，假如每个公众号平均发文1000篇，合计500亿篇文章，每个中国人能分到36篇。这些文章在提供大量资讯、信息、知识的同时，已经渗透到了各行各业。其中，互联网、教育、金融的内容最多。细细深挖，总能发现鲜为人知的信息差，如果你了解公开情报分析Open Source Intelligence的原则，微信公众号的数据一定不能错过。
 > 只要有一个微信账号，任何一个公众号的内容都可以查看，但是你真的会看吗？真的能看懂吗？真的有时间看吗？请承认，总有那么一小撮人，深谙这些方法和技巧，他们的思维方式和信息渠道完全吊打挤在同一条地铁中的其他人。不管是印刷术、互联网还是微信公众号实际上都加剧了信息不对称，请务必笃信这一点。
@@ -28,8 +28,10 @@ WCplus 依赖 Python3 运行，请先安装 Python ，最好是 python 3.6 。
 以上就是运行 WCplus 所需的所有步骤
 
 ## 生成证书
-如果你想要使用原版exe程序（[下载](https://github.com/fuckwonderfulsuccess/WCplus/releases)），可以并使用license generator生成一个license.ca授权文件，按照使用说明配置即可。license generator使用方式为：
+如果你想要使用原版exe程序（[下载](https://github.com/fuckwonderfulsuccess/WCplus/releases)），可以使用license generator生成一个license.ca授权文件，按照使用说明配置即可。license generator使用方式为：
 ```
 python3 license_generator.py 标识码
 ```
 
+## 其他声明
+本人没有太多时间参与源代码的维护工作，不能保证所有 issue 都能在短时间内得到解决
