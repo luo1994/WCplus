@@ -20,7 +20,7 @@ WCplus 依赖 Python3 运行，请先安装 Python ，最好是 python 3.6 。
 `pip3 install -r requirements.txt`
 
 ### 安装MongoDB
-// TODO:
+[下载](https://fastdl.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-4.0.8.zip) MongoDB，解压之后将bin目录（带目录）拷贝至mongodb文件夹下即可
 
 ### 运行
 `python3 main.py`
@@ -28,7 +28,7 @@ WCplus 依赖 Python3 运行，请先安装 Python ，最好是 python 3.6 。
 以上就是运行 WCplus 所需的所有步骤
 
 ## 生成证书
-如果你想要使用原版exe程序（[下载](https://github.com/fuckwonderfulsuccess/WCplus/releases)），可以使用license generator生成一个license.ca授权文件，按照使用说明配置即可。license generator使用方式为：
+如果你想要使用原版exe程序（[下载](https://github.com/fuckwonderfulsuccess/WCplus/releases)），可以使用license generator生成一个license.ca授权文件，将该文件放在WCplus.exe文件所在目录，重启程序即可。license generator使用方式为：
 ```
 python3 license_generator.py 标识码
 ```
