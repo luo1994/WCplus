@@ -34,5 +34,7 @@ WCplus 依赖 Python3 运行，请先安装 Python ，最好是 python 3.6 。
 python3 license_generator.py 标识码
 ```
 
-## 其他声明
-本人没有太多时间参与源代码的维护工作，不能保证所有 issue 都能在短时间内得到解决
+## 其他
+本人没有太多时间参与源代码的维护工作，不能保证所有 issue 都能在短时间内得到解决。
+
+Telegram 交流群 https://t.me/joinchat/Gia3SBWOSAAvTsGXg_Iq7Q
